@@ -1,0 +1,12 @@
+name: isthereteatimetoday
+title: isthereteatimetoday
+username:
+account: benjaminackerman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 410762
+bundleId: 1558715
+url: https://benjaminackerman.shinyapps.io/isthereteatimetoday/
+when: 1535489609.66303
+asMultiple: FALSE
+asStatic: FALSE
