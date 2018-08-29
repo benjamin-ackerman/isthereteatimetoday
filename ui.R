@@ -1,16 +1,8 @@
-
-# This is the user-interface definition of a Shiny web application.
-# You can find out more about building applications with Shiny here:
-#
-# http://shiny.rstudio.com
-#
-
 library(shiny)
 
 shinyUI(fluidPage(
-
-  # Application title
   h1(textOutput("answer"),align="center"),
+  div(img(src = "img.gif"), style="text-align: center;"),
   h2(textOutput("subtitle"), align="center")
-
 ))
+
